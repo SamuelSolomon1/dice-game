@@ -1,0 +1,47 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+body {
+  background-color: #053322;
+  margin: 0;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 4.5rem;
+  color: #e8d904;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: #e8d904;
+}
+
+img {
+  width: 100%;
+}
+.bottom {
+  padding-top: 30px;
+}
+.btn {
+  background: #b00303;
+  border-radius: 7px;
+  color: #ffff;
+  font-size: 30px;
+  padding: 16px 25px 16px 25px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #70110e;
+  text-decoration: none;
+}
